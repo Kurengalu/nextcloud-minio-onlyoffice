@@ -1,0 +1,12 @@
+#mariadb env
+MYSQL_ROOT_PASSWORD=RootPass
+MYSQL_PASSWORD=NextPass
+MYSQL_DATABASE=nextcloudtw
+MYSQL_USER=nextcloudtw
+MYSQL_HOST=db
+#minio env
+MINIO_ROOT_USER=admin
+MINIO_ROOT_PASSWORD=password
+#onlyoffice env
+JWT_ENABLED=true
+JWT_SECRET=toor
